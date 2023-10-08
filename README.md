@@ -1,4 +1,4 @@
-<img width="400" src="https://raw.githubusercontent.com/chithjyot732/chithjyot732/main/abc.png">
+<img  src="https://raw.githubusercontent.com/chithjyot732/chithjyot732/main/abc.png">
 
 <h1 style = "color:blue; font-weight:bold;" align="center">Hi 👋, I'm Asmaa Saeed</h1>
 <h3 style="font weight :bold ;" align="center">A passionate frontend developer from Egypt</h3>
