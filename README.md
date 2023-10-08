@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+
+
 <img  src="https://raw.githubusercontent.com/chithjyot732/chithjyot732/main/abc.png">
 
 <h1 style = "color:blue; font-weight:bold;" align="center">Hi 👋, I'm Asmaa Saeed</h1>
@@ -39,3 +52,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-saeed&show_icons=true&locale=en&layout=compact" alt="asmaa-saeed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa-saeed&show_icons=true&locale=en" alt="asmaa-saeed" /></p>
+</body>
+</html>
