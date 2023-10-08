@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
+
 
 
 
 <img  src="https://raw.githubusercontent.com/chithjyot732/chithjyot732/main/abc.png">
 
-<h1 style = "color:blue; font-weight:bold;" align="center">Hi 👋, I'm Asmaa Saeed</h1>
+<h1  align="center">Hi 👋, I'm Asmaa Saeed</h1>
 <h3 style="font weight :bold ;" align="center">A passionate frontend developer from Egypt</h3>
 
 
-<img align="right" width="400"  src = "https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" width="500"  src = "https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=asmaa-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-saeed" /> </p>
@@ -52,5 +43,4 @@ p    {color: red;}
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-saeed&show_icons=true&locale=en&layout=compact" alt="asmaa-saeed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa-saeed&show_icons=true&locale=en" alt="asmaa-saeed" /></p>
-</body>
-</html>
+
