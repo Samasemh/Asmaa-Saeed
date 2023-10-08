@@ -2,12 +2,12 @@
 
 <h1 style = "color:blue; font-weight:bold;" align="center">Hi 👋, I'm Asmaa Saeed</h1>
 <h3 style="font weight :bold ;" align="center">A passionate frontend developer from Egypt</h3>
-<img width="400" align="center" src = "https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+
+
+<img width="400"  src = "https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 <img src="H:\html-css-course\Images\abc.png">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaa-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-saeed" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=asmaa-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-saeed" /> </p>
 
 - 🔭 I’m currently working on **Practicing skills that I learned in programming to be perfect at the computer science field**
 
